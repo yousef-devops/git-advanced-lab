@@ -1,2 +1,1 @@
-#!/usr/bin/env bash
-title=login_app
+tile=main_aPP

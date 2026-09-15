@@ -1,3 +1,5 @@
 echo "version 1.0"
 echo "miami and messi"
 echo "messi 3m ronaldo"
+echo "keep going "
+echo "Don't give up"
